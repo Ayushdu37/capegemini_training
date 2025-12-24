@@ -18,7 +18,7 @@
 // student.Name = "Ayush";
 // student.Age = 21;
 // student.Marks = 90;
-// student.Password = "37Ayush@73";
+// student.Password = "";
 
 // Console.WriteLine($"Student Id : {student.StudentId}");
 // Console.WriteLine($"Name : {student.Name}");
