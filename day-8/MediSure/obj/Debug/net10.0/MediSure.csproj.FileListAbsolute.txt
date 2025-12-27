@@ -1,0 +1,15 @@
+D:\.net\day-8\MediSure\obj\Debug\net10.0\MediSure.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net\day-8\MediSure\obj\Debug\net10.0\MediSure.AssemblyInfoInputs.cache
+D:\.net\day-8\MediSure\obj\Debug\net10.0\MediSure.AssemblyInfo.cs
+D:\.net\day-8\MediSure\obj\Debug\net10.0\MediSure.csproj.CoreCompileInputs.cache
+D:\.net\day-8\MediSure\obj\Debug\net10.0\MediSure.sourcelink.json
+D:\.net\day-8\MediSure\bin\Debug\net10.0\MediSure.exe
+D:\.net\day-8\MediSure\bin\Debug\net10.0\MediSure.deps.json
+D:\.net\day-8\MediSure\bin\Debug\net10.0\MediSure.runtimeconfig.json
+D:\.net\day-8\MediSure\bin\Debug\net10.0\MediSure.dll
+D:\.net\day-8\MediSure\bin\Debug\net10.0\MediSure.pdb
+D:\.net\day-8\MediSure\obj\Debug\net10.0\MediSure.dll
+D:\.net\day-8\MediSure\obj\Debug\net10.0\refint\MediSure.dll
+D:\.net\day-8\MediSure\obj\Debug\net10.0\MediSure.pdb
+D:\.net\day-8\MediSure\obj\Debug\net10.0\MediSure.genruntimeconfig.cache
+D:\.net\day-8\MediSure\obj\Debug\net10.0\ref\MediSure.dll
