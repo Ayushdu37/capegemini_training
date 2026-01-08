@@ -1,0 +1,15 @@
+D:\.net\Saturday-Assessment\Factory-Robot-Hazard-Analyzer\bin\Debug\net10.0\Factory-Robot-Hazard-Analyzer.exe
+D:\.net\Saturday-Assessment\Factory-Robot-Hazard-Analyzer\bin\Debug\net10.0\Factory-Robot-Hazard-Analyzer.deps.json
+D:\.net\Saturday-Assessment\Factory-Robot-Hazard-Analyzer\bin\Debug\net10.0\Factory-Robot-Hazard-Analyzer.runtimeconfig.json
+D:\.net\Saturday-Assessment\Factory-Robot-Hazard-Analyzer\bin\Debug\net10.0\Factory-Robot-Hazard-Analyzer.dll
+D:\.net\Saturday-Assessment\Factory-Robot-Hazard-Analyzer\bin\Debug\net10.0\Factory-Robot-Hazard-Analyzer.pdb
+D:\.net\Saturday-Assessment\Factory-Robot-Hazard-Analyzer\obj\Debug\net10.0\Factory-Robot-Hazard-Analyzer.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net\Saturday-Assessment\Factory-Robot-Hazard-Analyzer\obj\Debug\net10.0\Factory-Robot-Hazard-Analyzer.AssemblyInfoInputs.cache
+D:\.net\Saturday-Assessment\Factory-Robot-Hazard-Analyzer\obj\Debug\net10.0\Factory-Robot-Hazard-Analyzer.AssemblyInfo.cs
+D:\.net\Saturday-Assessment\Factory-Robot-Hazard-Analyzer\obj\Debug\net10.0\Factory-Robot-Hazard-Analyzer.csproj.CoreCompileInputs.cache
+D:\.net\Saturday-Assessment\Factory-Robot-Hazard-Analyzer\obj\Debug\net10.0\Factory-Robot-Hazard-Analyzer.sourcelink.json
+D:\.net\Saturday-Assessment\Factory-Robot-Hazard-Analyzer\obj\Debug\net10.0\Factory-Robot-Hazard-Analyzer.dll
+D:\.net\Saturday-Assessment\Factory-Robot-Hazard-Analyzer\obj\Debug\net10.0\refint\Factory-Robot-Hazard-Analyzer.dll
+D:\.net\Saturday-Assessment\Factory-Robot-Hazard-Analyzer\obj\Debug\net10.0\Factory-Robot-Hazard-Analyzer.pdb
+D:\.net\Saturday-Assessment\Factory-Robot-Hazard-Analyzer\obj\Debug\net10.0\Factory-Robot-Hazard-Analyzer.genruntimeconfig.cache
+D:\.net\Saturday-Assessment\Factory-Robot-Hazard-Analyzer\obj\Debug\net10.0\ref\Factory-Robot-Hazard-Analyzer.dll
