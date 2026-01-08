@@ -1,0 +1,15 @@
+D:\.net\day-11\Ecommerce-Order-Processing-System\bin\Debug\net10.0\Ecommerce-Order-Processing-System.exe
+D:\.net\day-11\Ecommerce-Order-Processing-System\bin\Debug\net10.0\Ecommerce-Order-Processing-System.deps.json
+D:\.net\day-11\Ecommerce-Order-Processing-System\bin\Debug\net10.0\Ecommerce-Order-Processing-System.runtimeconfig.json
+D:\.net\day-11\Ecommerce-Order-Processing-System\bin\Debug\net10.0\Ecommerce-Order-Processing-System.dll
+D:\.net\day-11\Ecommerce-Order-Processing-System\bin\Debug\net10.0\Ecommerce-Order-Processing-System.pdb
+D:\.net\day-11\Ecommerce-Order-Processing-System\obj\Debug\net10.0\Ecommerce-Order-Processing-System.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net\day-11\Ecommerce-Order-Processing-System\obj\Debug\net10.0\Ecommerce-Order-Processing-System.AssemblyInfoInputs.cache
+D:\.net\day-11\Ecommerce-Order-Processing-System\obj\Debug\net10.0\Ecommerce-Order-Processing-System.AssemblyInfo.cs
+D:\.net\day-11\Ecommerce-Order-Processing-System\obj\Debug\net10.0\Ecommerce-Order-Processing-System.csproj.CoreCompileInputs.cache
+D:\.net\day-11\Ecommerce-Order-Processing-System\obj\Debug\net10.0\Ecommerce-Order-Processing-System.sourcelink.json
+D:\.net\day-11\Ecommerce-Order-Processing-System\obj\Debug\net10.0\Ecommerce-Order-Processing-System.dll
+D:\.net\day-11\Ecommerce-Order-Processing-System\obj\Debug\net10.0\refint\Ecommerce-Order-Processing-System.dll
+D:\.net\day-11\Ecommerce-Order-Processing-System\obj\Debug\net10.0\Ecommerce-Order-Processing-System.pdb
+D:\.net\day-11\Ecommerce-Order-Processing-System\obj\Debug\net10.0\Ecommerce-Order-Processing-System.genruntimeconfig.cache
+D:\.net\day-11\Ecommerce-Order-Processing-System\obj\Debug\net10.0\ref\Ecommerce-Order-Processing-System.dll

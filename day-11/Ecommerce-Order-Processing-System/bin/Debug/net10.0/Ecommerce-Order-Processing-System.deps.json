@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Ecommerce-Order-Processing-System/1.0.0": {
+        "runtime": {
+          "Ecommerce-Order-Processing-System.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ecommerce-Order-Processing-System/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

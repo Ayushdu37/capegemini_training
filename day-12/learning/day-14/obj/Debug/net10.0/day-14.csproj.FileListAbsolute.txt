@@ -1,0 +1,15 @@
+D:\.net\day-14\learning\day-14\bin\Debug\net10.0\day-14.exe
+D:\.net\day-14\learning\day-14\bin\Debug\net10.0\day-14.deps.json
+D:\.net\day-14\learning\day-14\bin\Debug\net10.0\day-14.runtimeconfig.json
+D:\.net\day-14\learning\day-14\bin\Debug\net10.0\day-14.dll
+D:\.net\day-14\learning\day-14\bin\Debug\net10.0\day-14.pdb
+D:\.net\day-14\learning\day-14\obj\Debug\net10.0\day-14.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net\day-14\learning\day-14\obj\Debug\net10.0\day-14.AssemblyInfoInputs.cache
+D:\.net\day-14\learning\day-14\obj\Debug\net10.0\day-14.AssemblyInfo.cs
+D:\.net\day-14\learning\day-14\obj\Debug\net10.0\day-14.csproj.CoreCompileInputs.cache
+D:\.net\day-14\learning\day-14\obj\Debug\net10.0\day-14.sourcelink.json
+D:\.net\day-14\learning\day-14\obj\Debug\net10.0\day-14.dll
+D:\.net\day-14\learning\day-14\obj\Debug\net10.0\refint\day-14.dll
+D:\.net\day-14\learning\day-14\obj\Debug\net10.0\day-14.pdb
+D:\.net\day-14\learning\day-14\obj\Debug\net10.0\day-14.genruntimeconfig.cache
+D:\.net\day-14\learning\day-14\obj\Debug\net10.0\ref\day-14.dll
