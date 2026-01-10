@@ -45,7 +45,7 @@ class Program
         }
 
         List<Order> orders = repository.GetAll();
-        orders.Sort((o1, o2) => o2.Amount.CompareTo(o1.Amount));
+        orders.Sort((a, b) => b.Amount.CompareTo(a.Amount));
 
         Console.WriteLine("Sorted Orders (Descending Amount): ");
         foreach(var order in orders)
